@@ -16,6 +16,9 @@
      elseif ($age >= 21) {
         print "buy specs, mugs & sausauge roll";
      }
+    else{
+        print "You can't get nada";
+    }
     ?>
 </p>
 </body>
